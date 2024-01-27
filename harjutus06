@@ -9,17 +9,21 @@
 <body>
     <div class="container">
         <div class="banner"><h1>ANU</h1></div>
-        <div class="navbar"></div>
+        <div class="navbar">
         <ul>
             <li><a href="#">Link 1></a></li>
             <li><a href="#">Link 2></a></li>
             <li><a href="#">Link 3></a></li>
          </ul>
+         </div>
 
 <div class="content">
     <h2>Lõigud</h2>
+
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste deserunt vero quisquam,
          eos sapiente iure temporibus facere autem! Assumenda similique doloremque sit aperiam explicabo eum sapiente delectus fuga blanditiis id.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste deserunt vero quisquam, 
+        eos sapiente iure temporibus facere autem! Assumenda similique doloremque sit aperiam explicabo eum sapiente delectus fuga blanditiis id.</p>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste deserunt vero quisquam, 
         eos sapiente iure temporibus facere autem! Assumenda similique doloremque sit aperiam explicabo eum sapiente delectus fuga blanditiis id.</p>
         <br>
@@ -30,9 +34,12 @@
                 <li>lorem ipsum</li>
                 <li>lorem ipsum</li>
                 <li>lorem ipsum</li>
+                <li>lorem ipsum</li>
             </ul>
+            <div class="footer">Anu</div>
 
         >
+</div>
 </div>
 </body>
 </html>

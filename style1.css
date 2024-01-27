@@ -1,9 +1,8 @@
-/*ÜLD*/
+/* Üld*/
 * {
     font-family: Arial, Helvetica, sans-serif;
-    padding: 0;
-    margin: 0;
-
+    padding: 0%;
+    margin: 0%;
 
 }
 body{
@@ -11,72 +10,70 @@ body{
 }
 .container{
     max-width: 1200px;
-    margin: auto;
-
+    margin: auto; /* */
+    background-color: #fff;
 }
 
-.navbar{
-    background-color: #000;
-    color: #fff;
-}
-
-
-/*PÄIS*/
+/* PÄIS*/
 .banner{
     background-color: #565656;
     color: #fff;
-
 }
 .banner h1{
-    font-size: 32px
-    font weight 400px;
-    line-height: 90px;
-   
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 48px;
+    margin: 0 0 0 50px;
 }
-
 .navbar{
-    background-color: #000;
+    background-color: #0c0b0b;
     color: #fff;
 }
-
 .navbar ul{
     display: flex;
     list-style-type: none;
+
 }
-.navbar ul li {
+.navbar ul{
     line-height: 50px;
     margin: 0 20px;
-
 }
-
-.navbar a{
-    color: #fff;
+.navbar {
+    color: #fff6f6;
     text-decoration: none;
 }
-.navbar a:hover{
+.navbar :hover{
     text-decoration: underline;
 }
-
-
-/*SISU*/
+/* SISU */
 .content{
     padding: 20px;
 }
 h2{
-    font-weight: 400;
 
+    color: rgb(92, 29, 29);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    padding: 20px 0;
 }
-.content p {
+.content p{
     padding: 10px 0;
     line-height: 26px;
 }
 .content img{
-    max-width:  width 100%; ;
+    max-width: 100%;
 }
-/*JALUS*/
+.content ul{
+    padding-left: 48px;
+}
+
+
+/* Jalus*/
 .footer{
-    background-color: #000;
+    background-color: #565656;
     color: #fff;
-    line-height: 50px;
+    line-height:50px;
     padding: 0 20px;
 }
+
+	
